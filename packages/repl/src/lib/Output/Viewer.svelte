@@ -329,7 +329,7 @@
 <style>
 	.iframe-container {
 		position: absolute;
-		background-color: var(--sk-bg-1, white);
+		background-color: var(--sk-bg-1, #181825);
 		border: none;
 		width: 100%;
 		height: 100%;
